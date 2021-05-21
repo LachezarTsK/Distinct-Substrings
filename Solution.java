@@ -1,4 +1,3 @@
-package distinctSubstrings.gitHub;
 
 public class Solution {
 
